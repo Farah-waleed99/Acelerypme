@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DsRFl9wBWkq_yos7-DyVsQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="841a0d27-afb5-42bc-9447-08eaa6a2e819" DesignTimeRectangle="407, 310, 741, 42" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl aria-labelledby='i4t-id-17' tag='SELECT' /&gt;" Guid="c55a9438-0a15-4a24-802f-022b4946d3ef" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="841a0d27-afb5-42bc-9447-08eaa6a2e819" CvTextArea="405, 277, 139, 19" CvTextArgument="Soy autónomo/a" CvType="Text" DesignTimeRectangle="407, 275, 136, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='  Soy autónomo/a&amp;#xA;' tag='LABEL' type='' class='' aaname='Soy autónomo/a' check:innerText='Soy autónomo/a' /&gt;" Guid="bd89ee53-d558-4556-99cf-a2a158f7ec25" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="bc2fdcce6e70446ca38c8502c53ca620.png" xmlns="">0vUoukppRW06nQROdXQT4ag</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

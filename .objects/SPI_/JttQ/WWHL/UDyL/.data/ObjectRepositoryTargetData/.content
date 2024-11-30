@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XoWkvLx_R0Os6VvdexLhGA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/user/login" DesignTimeRectangle="294, 724, 136, 19" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='block-acelerapyme-content' tag='A' type='' class='animated-link arrow-right_blue' aaname='Regístrate ahora' check:innerText='Regístrate ahora' /&gt;" Guid="e7a5229d-1231-48de-9468-ed6d76d66881" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Inicio sesión | Acelera pyme' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c37e3efa-d9da-43b2-a76c-68d032c954ae" CvElementArea="131, 656, 147, 43" CvTextArea="148, 668, 112, 17" CvTextArgument="Iniciar sesión" CvType="Button" DesignTimeRectangle="132, 658, 146, 40" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='edit-submit' tag='INPUT' type='submit' class='button js-form-submit form-submit btn btn-primary' aaname='Iniciar sesión' check:text='Iniciar sesión' /&gt;" Guid="f5d0c313-1c3f-4222-8ab9-76194fc74bb0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="35652da9d52357c124d948302b417013.png" xmlns="">0V7DU3A5wEEiylO3M20SiMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

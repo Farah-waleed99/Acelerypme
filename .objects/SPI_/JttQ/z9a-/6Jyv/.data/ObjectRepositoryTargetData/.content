@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GhNlIYH4zkaqOyZ0rPi2cg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="0c218f86-f77d-4eb9-b5de-ee015e1dd8b8" DesignTimeRectangle="407, 552, 86, 24" DesignTimeScaleFactor="1" ElementType="Text" FuzzyAccuracy="0.89" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='option' aaname='Señora' check:innerText='Señora' /&gt;" Guid="0cb54c7c-ed9c-4057-b8f4-e0f50cd7a422" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0c218f86-f77d-4eb9-b5de-ee015e1dd8b8" CvElementArea="404, 549, 29, 29" CvType="RadioButton" DesignTimeRectangle="404, 549, 30, 30" ElementType="RadioButton" Guid="8edcca30-64a7-4cec-90db-edb94bc1d7dc" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="69e670c3b8976bc53f93eb84a21e358e.png" xmlns="">0rf6TZBkkBES6BMnzMt6l4Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

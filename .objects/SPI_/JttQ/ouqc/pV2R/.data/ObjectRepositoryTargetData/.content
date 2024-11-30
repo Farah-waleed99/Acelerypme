@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qdK1_BfBVkiDIwT9comTLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="2240191b-fceb-4dbb-aac0-aab9ee9ac100" CvElementArea="405, 556, 320, 44" CvType="InputBox" DesignTimeRectangle="408, 558, 314, 40" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='chosen-single' tag='A' type='' aaname='   Seleccionar    ' check:innerText='Seleccionar' /&gt;" Guid="6c24c00d-5fff-45a0-9f0e-206cc17c74be" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2240191b-fceb-4dbb-aac0-aab9ee9ac100" DesignTimeRectangle="407, 523, 127, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  Código CNAE&amp;#xA;' tag='LABEL' /&gt;" Guid="8f5c6dd5-bfa8-486f-ad62-a3bbda0a8335" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c51444de0337ed7922db7a60d14afc47.png" xmlns="">0pa_ZwX8a3kmSQ6-ToGR3wA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

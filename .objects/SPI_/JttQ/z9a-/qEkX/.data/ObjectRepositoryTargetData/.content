@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gL7nesV50kq84QBNfKj90w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="e7f0ac8e-8eee-4264-9eac-1f17fef2d888" DesignTimeRectangle="1028, 634, 120, 44" DesignTimeScaleFactor="1" ElementType="Button" FuzzyAccuracy="0.91" FuzzySelectorArgument="&lt;webctrl id='edit-actions-wizard-next' tag='INPUT' type='submit' class='webform-button--next button js-form-submit form-submit btn btn-primary' aaname='Continuar' check:text='Continuar' /&gt;" Guid="3a6af2ff-ee70-4c1d-95cd-36c954607b50" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e27fa0f5b23833ad300ee50c316de0df.png" xmlns="">04GqF-ZfFAkSy3uZvKkizvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

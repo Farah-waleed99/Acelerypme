@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_VTPzNO9NEODnz2mj9vR7A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="98824093-71e1-452a-8042-6188a3515410" DesignTimeRectangle="407, 616, 370, 43" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='nif' tag='INPUT' type='text' /&gt;" FuzzyAccuracy="0.91" Guid="86e8e67b-b505-42e8-9193-8fb901c459fb" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="98824093-71e1-452a-8042-6188a3515410" CvTextArea="405, 580, 76, 17" CvTextArgument="NIF/NIE *" CvType="Text" DesignTimeRectangle="407, 578, 78, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='  NIF/NIE&amp;#xA;' tag='LABEL' type='' class='js-form-required form-required' aaname='NIF/NIE' check:innerText='NIF/NIE' /&gt;" Guid="30d5d482-e71f-4bc1-bd2f-2d9be3c12491" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="be072eddeb28319f98f728de72dc26d6.png" xmlns="">01sQQxwnSWkmw0AaaGA8IJw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

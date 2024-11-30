@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Estimadoa ,Su cuenta e…",
+  "Type": "Element",
+  "Id": "og6a6k4XL0SHrsPXD1vbCg",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/og6a6k4XL0SHrsPXD1vbCg",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/D5g31OIiFki-4o0xyDfXWA",
+  "Created": "2024-11-05T11:39:59.5417253Z",
+  "Updated": "2024-11-05T11:39:59.5417253Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

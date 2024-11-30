@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Inicio de la actividad",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "ITOxG-Z9xk-YyAD3ZsOSBQ",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/ITOxG-Z9xk-YyAD3ZsOSBQ",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/z9a-5f7TOEa6P-RKR1H3EA",
+  "Created": "2024-11-05T04:09:26.4398312Z",
+  "Updated": "2024-11-05T04:09:26.4398312Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

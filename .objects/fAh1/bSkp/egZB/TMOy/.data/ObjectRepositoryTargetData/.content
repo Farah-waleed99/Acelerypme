@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cpOhv1NMlUmlH2I_LCIWfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="yopmail.com" CVScreenId="abb79911-e26e-4329-995e-92626ef3d9a5" DesignTimeRectangle="44, 475, 395, 40" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl id='ycptcpt' tag='DIV' /&gt;" Guid="e327636b-f3fd-4084-9733-783c70616401" ScopeSelectorArgument="&lt;html app='chrome.exe' title='YOPmail - Disposable Email Address - Anonymous and temporary inbox' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="abb79911-e26e-4329-995e-92626ef3d9a5" DesignTimeRectangle="44, 452, 395, 15" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='H2' aaname='Type the Email name of your choice' visibleinnertext='Type the Email name of your choice' /&gt;" Guid="52c834ef-53c2-45e5-b964-a05d2c6ab22a" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="937763e1598008f08f083c57f7fb9f0d.png" xmlns="">0BMQf2hnoF0CVe0oy2dl9Pg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

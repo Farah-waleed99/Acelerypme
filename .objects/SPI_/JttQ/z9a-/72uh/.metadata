@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Melilla(2)",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "72uh5IfUSUeefZWdoMGaEQ",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/72uh5IfUSUeefZWdoMGaEQ",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/z9a-5f7TOEa6P-RKR1H3EA",
+  "Created": "2024-11-04T14:44:55.5405607Z",
+  "Updated": "2024-11-04T14:44:55.5405607Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

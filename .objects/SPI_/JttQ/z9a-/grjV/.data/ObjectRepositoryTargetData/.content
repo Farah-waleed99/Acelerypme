@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1ar2-k-fj06HkW-5mmn8zg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="25a8b085-0947-44b3-8daf-21e098595ed5" CvElementArea="404, 541, 374, 45" CvType="InputBox" DesignTimeRectangle="407, 542, 370, 42" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl aria-labelledby='edit-commmunity-province-location--odd3V0uHQWk-shs-0-1-label' tag='SELECT' /&gt;" FuzzyAccuracy="0.9" Guid="04c285b9-e4f9-444d-9a4a-c169d4733873" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="31422164834f6e797b300ef85b1284e1.png" xmlns="">0k4bT-1MGi0i871cSuIHT1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

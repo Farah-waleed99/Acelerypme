@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DVqHxQFSREe1-6YSsF5y-g" Reference="uvypomeXyUqEVCyLDutcFg/ITOxG-Z9xk-YyAD3ZsOSBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="ddf73577-0a4b-431a-81d8-1da0a3ec8609" CvElementArea="405, 284, 560, 48" CvType="InputBox" DesignTimeRectangle="407, 287, 555, 43" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl aria-labelledby='i4t-id-18' tag='SELECT' /&gt;" Guid="dcccd750-d4a9-4f9a-9c68-c28353008262" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ddf73577-0a4b-431a-81d8-1da0a3ec8609" DesignTimeRectangle="407, 253, 173, 24" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-label='  Inicio de la actividad&amp;#xA;' tag='LABEL' /&gt;" FuzzyAccuracy="0.9" Guid="674b464f-7b05-49c2-b1c3-c0bdb50e2f8f" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d53d788285f2c5c35ab1e9c3c408b2f6.png" xmlns="">0egaxlqLKfUCxavGWaiNEjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

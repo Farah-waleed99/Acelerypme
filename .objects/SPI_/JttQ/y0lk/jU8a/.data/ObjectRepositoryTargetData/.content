@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vN6ZVyEfzUGshuZ5f4VQWg" Reference="uvypomeXyUqEVCyLDutcFg/jU8aUicmYEGAafdVDXqjQw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/user/login" CVScreenId="1abea393-acc6-4645-8b01-b5e7ac16f5ed" ContentHash="VPjmGc_A5kG4QXdOdVKi-A" DesignTimeRectangle="293, 692, 136, 19" DesignTimeScaleFactor="1" ElementType="Text" FuzzyAccuracy="0.96" FuzzySelectorArgument="&lt;webctrl parentid='block-acelerapyme-content' tag='A' type='' class='animated-link arrow-right_blue' aaname='Regístrate ahora' check:innerText='Regístrate ahora' /&gt;" Guid="ce43a41b-7b32-42c6-9208-85e445cd20b3" ImageBase64="" Reference="uvypomeXyUqEVCyLDutcFg/jU8aUicmYEGAafdVDXqjQw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inicio sesión | Acelera pyme' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1" />
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="979568478597a83c45ac74f67a9b0ce9.png" xmlns="">0BSXVquKB7063bfLH2hjwVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

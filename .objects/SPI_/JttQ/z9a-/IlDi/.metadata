@@ -1,0 +1,13 @@
+﻿{
+  "Name": "× Mensaje de error El f…",
+  "Type": "Element",
+  "Id": "IlDi8Aodh0S2UfELJ-3Hvw",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/IlDi8Aodh0S2UfELJ-3Hvw",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/z9a-5f7TOEa6P-RKR1H3EA",
+  "Created": "2024-11-04T18:16:29.0062429Z",
+  "Updated": "2024-11-04T18:16:29.0062429Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

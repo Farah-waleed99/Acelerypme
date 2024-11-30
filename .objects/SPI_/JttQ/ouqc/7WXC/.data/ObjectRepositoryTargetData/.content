@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BrwBppcfUUODESK0heEfiw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" DesignTimeRectangle="407, 589, 370, 43" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl aria-labelledby='edit-commmunity-province-location*' tag='SELECT' /&gt;&lt;nav up='2' /&gt;&lt;webctrl innertext='Localidad*' visibleinnertext='Localidad*' idx='1' /&gt;&lt;webctrl aria-labelledby='edit-commmunity-province-location*' tag='SELECT' /&gt;" Guid="a178b10e-fb28-4326-b56c-dbb9528cee63" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="917c1f6a3cfcf214f0832fe745ff9bdc.png" xmlns="">0OOcToRuMEEeKL4aNEUanOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

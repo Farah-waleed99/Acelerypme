@@ -1,0 +1,14 @@
+﻿{
+  "Name": "SELECT edit-commmunity-…",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "7WXC8zMSXUugwS0vURgzSw",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/7WXC8zMSXUugwS0vURgzSw",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/ouqcw3XW10iYBJdUH2OekQ",
+  "Created": "2024-11-06T04:09:32.1935089Z",
+  "Updated": "2024-11-06T04:09:32.1935089Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

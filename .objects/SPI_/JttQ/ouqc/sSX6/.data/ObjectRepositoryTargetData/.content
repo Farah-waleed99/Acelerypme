@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wvGxHXamfUmECOGWYWThaA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" DesignTimeRectangle="407, 461, 370, 43" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl aria-label='  Comunidad/Provincia/Localidad&amp;#xA;' tag='LABEL' /&gt;&lt;nav up='1' /&gt;&lt;webctrl parentid='edit-pyme-data*' tag='DIV' innertext='Comunidad*' visibleinnertext='Comunidad*' idx='1' /&gt;&lt;webctrl id='edit-commmunity-province-location*' tag='SELECT' /&gt;" Guid="d61e9128-9562-458b-a1c5-2f77e67feef9" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.acelerapyme.gob.es/registro-pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="501dd94d208dc8113de38e0c05df5236.png" xmlns="">0qMeawihuGUqSnty5LxiSmw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

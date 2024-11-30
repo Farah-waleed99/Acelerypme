@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Y4jqIHGlWEuAh8V31mKLnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="0f77972c-36d3-489d-9d47-8789443c544f" DesignTimeRectangle="407, 548, 370, 43" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='postal_code' tag='INPUT' type='text' /&gt;" Guid="3287b900-41cf-4eb8-8c0c-179c870c5d68" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0f77972c-36d3-489d-9d47-8789443c544f" CvTextArea="405, 512, 129, 19" CvTextArgument="Código postal *" CvType="Text" DesignTimeRectangle="407, 510, 131, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='  Código postal&amp;#xA;' tag='LABEL' type='' class='js-form-required form-required' aaname='Código postal' check:innerText='Código postal' /&gt;" Guid="905f5d06-beee-4387-a8b7-aeae55360464" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b60a90c583ac856214fc3158f08ff28e.png" xmlns="">0x7Jwtuli10OwucE2xKiaqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

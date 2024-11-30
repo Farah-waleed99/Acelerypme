@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1wvy-pO80U2fz2BfwovC9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="yopmail.com/wm" DesignTimeRectangle="381, 336, 736, 212" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl id='ifmail' tag='IFRAME' /&gt;&lt;webctrl tag='PRE' /&gt;" Guid="9dc4d5e3-68df-4917-ba41-6f465a825f5d" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inbox' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dea2edb4b67c0962c73b0444a68400f0.png" xmlns="">0xxQSdlUm4Eusmjv_UxDj1Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

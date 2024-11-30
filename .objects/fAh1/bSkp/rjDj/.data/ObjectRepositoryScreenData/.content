@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="5W0B-vK0KEiX1wYyK3H1hA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 744" Arguments="c:\users\aaa\desktop\rpa training, acelerypme process.docx" FilePath="C:\Program Files (x86)\Microsoft Office\root\Office16\winword.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHJSURBVFhH7ZcvSENRFMZfkyE+LIoaNOkQwSAzOIOoiFHUIGgxGFZkxTLQothEEISJUVBEWDIsLSwsiOADlQUFkQXDgiIiBsNx3+XecSf3+p6PM5DhDz7YPds55+Pcs3/OP36MHz97FVGd5Mk2dgxJrJJt7JiSOCXb2DElcUq2sWNK4pRsYye+XyQ/jabvjcWDyOlYzHkVURh1LZ1TfyItTJiKBxEMGIsHVed0iqLJHA2s34TS3zGg6FvJV4uXyh8iNpwsVGMKdWYzcPv4JgrPbV2J82TqQpxB8qBYEysUX/gNnOafRPGdzIM4H2ZL4gyyl2URgxGA51Qem4GNoztRXDVTEwGv758ipkypiUBsBjB6gHvHnQOYgCGwvHstRg9wFewGIAWuAWAq+tgVeo4bW6X22bOa2G9UY0AfO8Ak8K4AuAagLyDEakAtIoAZFdeN6QsIsRpQiwjw2BTXFxBiNaAWEeiLpn8m6HGI1UAYNYSB0F/HbTMnFOmdJ3dkk1rH9kJJ/uyw09Q9QVb1TFEkulBfA82DCfKTG982Fg8i2cZOy9Aa/SQ3ljIWDirZxo4piVOyjR1TEqdkGzuVF3nfkxjl/9eswXGcL2IzjE/x0LYjAAAAAElFTkSuQmCC" Selector="&lt;wnd app='winword.exe' cls='OpusApp' title='RPA Training, Acelerypme Process  -  Protected View - Word' /&gt;" Title="RPA Training, Acelerypme Process  -  Protected View - Word" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="a53399edc95e1f053fe5e156437f8f2c.png" xmlns="">0LBoENxr0I0aFEMWObNGn1g</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

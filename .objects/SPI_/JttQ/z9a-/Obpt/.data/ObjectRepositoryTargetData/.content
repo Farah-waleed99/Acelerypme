@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LdVJ2g5kfUetfc4OPbLLzA" Reference="uvypomeXyUqEVCyLDutcFg/ObptIr4gdk-lv9G_uSBeZQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="d7a34bd2-d597-4162-b5f5-93eec98069e5" CvElementArea="406, 469, 26, 26" CvType="CheckBox" DesignTimeRectangle="406, 470, 26, 25" DesignTimeScaleFactor="1" ElementType="CheckBox" Guid="0d116cfe-ac74-4065-8d1a-7e9004ed0179" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d7a34bd2-d597-4162-b5f5-93eec98069e5" DesignTimeRectangle="439, 472, 432, 19" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Consentimiento expreso para el tratamiento de datos' tag='STRONG' /&gt;" Guid="cd01fc52-222a-4c3f-8fdb-67951d72fc04" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e521d192c77a426b382c9163fc5d42a3.png" xmlns="">0cRyyJ204Ok6LfQl-tq8cfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

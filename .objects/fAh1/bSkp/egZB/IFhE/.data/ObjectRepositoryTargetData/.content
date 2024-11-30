@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e-N7v7jQcUqVpg9oaUIjMw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="yopmail.com" CVScreenId="d9fba81c-60a3-4a7a-92b2-a5c44aeb4aa1" DesignTimeRectangle="402, 477, 36, 36" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl parentid='refreshbut' tag='I' /&gt;" Guid="de3831f9-8b4b-4b05-99cd-3d7e05c4cf13" ScopeSelectorArgument="&lt;html app='chrome.exe' title='YOPmail - Disposable Email Address - Anonymous and temporary inbox' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6e1d566ba10ff50e7dc6a8563bb2ca2c.png" xmlns="">0CkrjD4QTgU6qkJCM4hlQGA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "RPA Training, Acelerypme Process  -  Protected View - Word",
+  "Type": "App",
+  "Id": "fAh1xDjas0ijxQe1pTCE6w",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/fAh1xDjas0ijxQe1pTCE6w",
+  "Created": "2024-11-04T14:40:58.1811685Z",
+  "Updated": "2024-11-04T14:40:58.1811685Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

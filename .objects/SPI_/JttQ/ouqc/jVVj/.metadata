@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nombre o razón social d…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "jVVjO3SuVkexHZY6mlRiZA",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/jVVjO3SuVkexHZY6mlRiZA",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/ouqcw3XW10iYBJdUH2OekQ",
+  "Created": "2024-11-05T08:21:22.7935008Z",
+  "Updated": "2024-11-05T08:21:22.7935008Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

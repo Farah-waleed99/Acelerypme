@@ -1,0 +1,13 @@
+﻿{
+  "Name": "RPA Training, Acelerypme Process  -  Protecte(1)",
+  "Type": "Screen",
+  "Id": "egZBrkosHUiLArmdPXgAgg",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/egZBrkosHUiLArmdPXgAgg",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/bSkpxhAzhk-Q1lmp16OotQ",
+  "Created": "2024-11-05T04:45:01.0340317Z",
+  "Updated": "2024-11-05T04:45:01.0340317Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

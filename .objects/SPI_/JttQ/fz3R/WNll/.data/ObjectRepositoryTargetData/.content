@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cg88yFhsqEiifYiTkAKwLA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" DesignTimeRectangle="115, 260, 1136, 50" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl aria-role='alert' tag='DIV' /&gt;" FuzzyAccuracy="0.95" Guid="9f55eb34-14a7-428f-bc60-cb6d52006144" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cbd844b62ebf4c631134535a3b68dd37.png" xmlns="">0WcrhtzDBEUOeikrxYdjk8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

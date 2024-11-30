@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Entre 50 y 249 trabajad…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "L9bk0nC6PUaxxXFwZn3pxQ",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/L9bk0nC6PUaxxXFwZn3pxQ",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/z9a-5f7TOEa6P-RKR1H3EA",
+  "Created": "2024-11-05T04:05:20.086908Z",
+  "Updated": "2024-11-05T04:05:20.086908Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

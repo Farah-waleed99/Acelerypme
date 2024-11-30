@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="49WJhQZVtEGyCjTejKPbGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" CVScreenId="3dbcef02-3446-4139-be65-3c91904f4446" DesignTimeRectangle="407, 414, 555, 42" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl tag='INPUT' type='text' /&gt;" Guid="5a28f869-78fb-4c56-81f8-1bf67ddc35aa" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3dbcef02-3446-4139-be65-3c91904f4446" CvTextArea="406, 378, 310, 18" CvTextArgument="Nombre O razón social de la empresa" CvType="Text" DesignTimeRectangle="407, 375, 308, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Nombre o razón social de la empresa' check:innerText='Nombre o razón social de la empresa' /&gt;" Guid="9313441f-e52b-4fc1-96ad-d1d3ea30476c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b5f77f4db4a00df4393430c0b1432471.png" xmlns="">0WSTWtH7l5ESc0-pBT7MVYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

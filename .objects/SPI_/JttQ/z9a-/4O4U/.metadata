@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Cargo (opcional)",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "4O4UzLIR9k-zO4fQ-swaqg",
+  "Reference": "uvypomeXyUqEVCyLDutcFg/4O4UzLIR9k-zO4fQ-swaqg",
+  "ParentRef": "uvypomeXyUqEVCyLDutcFg/z9a-5f7TOEa6P-RKR1H3EA",
+  "Created": "2024-11-04T13:31:06.0688048Z",
+  "Updated": "2024-11-04T13:31:06.0688048Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

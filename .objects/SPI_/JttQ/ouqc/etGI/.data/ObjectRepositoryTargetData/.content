@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="03u_OZtwNUut5xYFTvoeBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acelerapyme.gob.es/registro-pyme" DesignTimeRectangle="407, 909, 741, 42" DesignTimeScaleFactor="1" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='edit-commmunity-province-location--uSWPsDfWZtQ-shs-0-1' tag='SELECT' type='' class='shs-select form-select form-element form-element--type-select required' aaname='' /&gt;" Guid="f5b2e3bb-bd86-4bd6-b446-3e2d19f1f0f6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Registro pyme | Acelera pyme' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="407, 520, 370, 42" ElementType="DropDown" FullSelectorArgument="&lt;webctrl parentid='edit-pyme-data*' innertext='ProvinciaRioja*' parentclass='shs-field-container' visibleinnertext='Provincia*' /&gt;&lt;webctrl id='edit-commmunity-province-location*' tag='SELECT' /&gt;" Guid="0b491e62-48db-4b3e-aa21-99a3f9e2bc51" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e0f25dc5010d182fa8ffdf69f85ed847.png" xmlns="">0YbDeYoBiV0eUpI85Bxllfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
